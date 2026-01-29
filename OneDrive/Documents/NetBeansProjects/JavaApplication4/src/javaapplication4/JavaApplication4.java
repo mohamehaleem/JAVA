@@ -18,3 +18,8 @@ public class JavaApplication4 {
     }
     
 }
+
+public class admin 
+{
+    system.out.print("helllo")
+}
